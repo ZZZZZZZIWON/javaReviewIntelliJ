@@ -5,25 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d9bda87-db7c-4089-8615-034efdd781f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaReviewIntelliJ.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework0425_ch06/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework0425_ch06/Ex08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework0425_ch06/Ex09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework0425_ch06/Ex11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework0425_ch06/MyPointTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework0425_ch06/app/GraphicEditor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework0425_ch06/base/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework0425_ch06/derived/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework0425_ch06/etc/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework0425_ch06/main/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_0502/Ex11_HashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_0502/Ex11_Vector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_0502/Ex11_HashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_0502/Ex11_HashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_0502/Ex11_Vector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework_0502/Ex11_Vector.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="f0589cdd-6bb7-4121-bca7-4740618f5873" />
+        <option name="url" value="https://github.com/ZZZZZZZIWON/javaReviewIntelliJ.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -52,13 +49,21 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/2023/IntelliJ_Workspace/javaReviewIntelliJ",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="homework_0502" />
@@ -73,8 +78,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682924866613</updated>
+      <workItem from="1683038256023" duration="231000" />
+      <workItem from="1683115633958" duration="4000" />
+      <workItem from="1683115920624" duration="14000" />
+      <workItem from="1683204576241" duration="4000" />
+      <workItem from="1683537891079" duration="3197000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
