@@ -49,7 +49,7 @@ public class Chap08_Ex10 {
             }
         }
 
-        System.out.println("총 " + map.size() + "개의 전화번호를 읽었습니다");
+        System.out.println("총 " + (map.size()-1) + "개의 전화번호를 읽었습니다");
 
         while (true) {
             System.out.print("이름 >> ");
